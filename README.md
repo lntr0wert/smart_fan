@@ -1,3 +1,3 @@
 # smart_fan
-all issues completed,
+all tasks completed,
 project closed
